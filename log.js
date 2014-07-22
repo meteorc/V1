@@ -1,7 +1,7 @@
 // Used MODULES
 // ========================================================
 var colors 			= require('colors');
-var mysqlStringEscape	= require('./mysqlStringEscape');
+var mysqlStringEscape		= require('./mysqlStringEscape');
 
 // Outil de log
 // ========================================================
