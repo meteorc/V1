@@ -1,7 +1,7 @@
 // MODULES UTILISES
 // ========================================================
-var express 				= require('express');
-var log					= require('./log');
+var express 		= require('express');
+var log			= require('./log');
 
 // enregistrerAdresseIp
 // Enregistre l'adresse dans l'objetTrace indiqué
