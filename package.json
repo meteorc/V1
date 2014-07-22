@@ -1,0 +1,17 @@
+{
+  "name": "nodeMeteo",
+  "version": "1.0.0",
+  "description": "Description",
+  "scripts": {
+	"start": "node index.js"
+  },
+  "main": "index.js",
+  "author": "F. ARTUS",
+  "license": "Copyright F. ARTUS, no license",
+  "dependencies": {
+    "colors": "0.6.x",
+    "express": "3.4.x",
+    "mysql": "2.3.x"
+  },
+  "engine": "node >= 0.10.0"
+}
