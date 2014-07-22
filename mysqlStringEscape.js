@@ -1,4 +1,3 @@
-
 // String escape for mySql queries
 function mysqlStringEscape (str) {
 	return str.replace(/[\0\x08\x09\x1a\n\r"'\\\%]/g, function (char) {
